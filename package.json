@@ -1,0 +1,27 @@
+{
+  "name": "he11t-booster-tool",
+  "version": "1.0.0",
+  "description": "Advanced Discord Booster Tool with exclusive features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "booster", "tool", "advanced"],
+  "author": "He11t",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "cli-table3": "^0.6.3",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+} 

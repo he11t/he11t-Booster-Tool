@@ -1,0 +1,8 @@
+# Sample Discord Tokens
+# Replace these with your actual tokens (one per line)
+# Remove the # comments when using real tokens
+
+# Example format:
+# MTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMTIzNDU2Nzg5MA.GhIjKl.MnOpQrStUvWxYzAbCdEfGhIjKlMnOpQrStUvWxYzA
+
+# Add your tokens below: 
